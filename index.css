@@ -14,6 +14,34 @@ li {
  list-style: none;
 }
 
+.bg {
+ height: 5vh;
+ background-attachment: fixed;
+}
+
+.bgimg,
+.bg {
+ background-image: url(/image/footr.jpg);
+}
+
+.bgimg2 {
+ background-image: url(/image/footr2.jpg);
+}
+
+.bgimg,
+.bgimg2 {
+ height: 30vh;
+}
+
+.bgimg,
+.bgimg2,
+.bg {
+ width: 100%;
+ background-attachment: fixed;
+ background-position: center;
+ background-size: cover;
+}
+
 /* Navbar/Hero Section */
 nav {
  height: 8vh;
