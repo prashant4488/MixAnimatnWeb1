@@ -21,11 +21,11 @@ li {
 
 .bgimg,
 .bg {
- background-image: url(/image/footr.jpg);
+ background-image: url(image/footr.jpg);
 }
 
 .bgimg2 {
- background-image: url(/image/footr2.jpg);
+ background-image: url(image/footr2.jpg);
 }
 
 .bgimg,
@@ -47,7 +47,7 @@ nav {
  height: 8vh;
  display: flex;
  justify-content: space-evenly;
- background-image: url(/image/hero.jpg);
+ background-image: url(image/hero.jpg);
  background-position: top;
  align-items: center;
  position: sticky;
@@ -56,7 +56,7 @@ nav {
 
 .hero {
  height: 67vh;
- background-image: url(/image/hero.jpg);
+ background-image: url(image/hero.jpg);
  background-position: center;
  background-size: cover;
  padding-top: 25vh;
