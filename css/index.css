@@ -21,11 +21,11 @@ li {
 
 .bgimg,
 .bg {
- background-image: url(image/footr.jpg);
+ background-image: url(../image/footr.jpg);
 }
 
 .bgimg2 {
- background-image: url(image/footr2.jpg);
+ background-image: url(../image/footr2.jpg);
 }
 
 .bgimg,
@@ -98,7 +98,6 @@ p {
 .heroBtn button:hover {
  background-color: white;
 }
-
 
 nav>li a p {
  letter-spacing: 3px;
