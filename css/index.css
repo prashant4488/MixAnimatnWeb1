@@ -126,7 +126,7 @@ nav ul li a:hover {
 
 /* First Section */
 .first {
- background-color: rgb(221, 184, 255);
+ background-color: rgba(221, 184, 255, 0.801);
  padding: 10px 0;
  padding-bottom: 30px;
  text-align: justify;
